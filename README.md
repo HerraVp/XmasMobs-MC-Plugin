@@ -1,5 +1,4 @@
 # XmasMobs-MC-Plugin
 Makes mobs wear red and white leather armor.
 
-### NOTE
-Not ready yet
+If u find any problems with the plugin. Dm Vp#0001 in discord.
