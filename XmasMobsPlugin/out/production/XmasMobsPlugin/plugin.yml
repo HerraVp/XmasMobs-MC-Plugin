@@ -1,0 +1,6 @@
+name: XmasMobs
+version: 0.1.0
+author: Vp
+description: XmasMobs made by Vp
+main: com.vp.xmasmobs.XmasMobs
+api-version: 1.16
